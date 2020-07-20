@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning react
+- 🤔 I’m looking for new opportunities
+- 📫 How to reach me: https://www.linkedin.com/in/thanhnk1602/
+
 <!--
 **narutoo9x/narutoo9x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
