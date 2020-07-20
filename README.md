@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning react
 - 🤔 I’m looking for new opportunities
 - 📫 How to reach me: https://www.linkedin.com/in/thanhnk1602/
 
