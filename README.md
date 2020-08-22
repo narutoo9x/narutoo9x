@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+### Hi there 👋 
 
 - 🤔 I’m looking for new opportunities
 - 📫 How to reach me: https://www.linkedin.com/in/thanhnk1602/
@@ -17,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![HitCount](http://hits.dwyl.com/narutoo9x/{project}.svg)](http://hits.dwyl.com/narutoo9x/{project})
